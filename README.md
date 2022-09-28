@@ -14,6 +14,10 @@
   
   ## Usage
   You use this project by visiting the website
+  
+  ## Links
+  Deployed: https://sf-pwa-jate.herokuapp.com/
+  Github: https://github.com/Santanamcf/PWA
   ## License
   MIT License
   ## Contributions
