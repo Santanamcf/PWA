@@ -31,7 +31,6 @@
 
   ## Notes
   This is my third repo, the first 2 were corrupted and not working.
-  Heroku is not finding my webpack for some reason, works perfectly locally. 
   
   ## Questions
   If you have any questions about the repo, open an issue or contact me directly at santanamcf01@gmail.com. You can find more of my work at Santanamcf
