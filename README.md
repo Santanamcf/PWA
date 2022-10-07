@@ -17,7 +17,7 @@
   
   ## Links
   Deployed: https://sf-pwa.herokuapp.com/
-  Github: https://github.com/Santanamcf/PWA
+  Github: https://github.com/Santanamcf/PWA-editing-app
   
   ## License
   MIT License
